@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Title of the blog
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Roya's Blog
+description: Site Description ❤
 github_username: relsabagh
 
 # Email and twitter are optional:
 email: roya.mohamed@gmail.com
-twitter_username: @rooyyyaaaa
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: 
